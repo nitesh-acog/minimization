@@ -1,0 +1,2 @@
+# minimization
+basic minimization process
